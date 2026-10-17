@@ -2,6 +2,12 @@
 
 A React app to track interview preparation questions. It is built with Vite and React, and it saves all data in the browser using localStorage.
 
+## Demo Video
+
+[![PreBoard Demo - Cohort 3.0 @sheryians](https://img.youtube.com/vi/bMFdEi2giRo/hqdefault.jpg)](https://youtu.be/bMFdEi2giRo)
+
+Watch on YouTube: [PreBoard Demo - Cohort 3.0 @sheryians](https://youtu.be/bMFdEi2giRo)
+
 ## Features
 
 - Add questions with a category (DSA, Git, Technical), difficulty (Easy, Medium, Hard) and status (Pending, In Progress, Completed)
@@ -45,6 +51,7 @@ prepboard-react/
 ├── index.html
 ├── package.json
 ├── vite.config.js
+├── screenshots/          # images used in this README
 └── src/
     ├── main.jsx          # entry point, mounts App into #root
     ├── App.jsx           # parent component: state and logic
@@ -88,4 +95,4 @@ prepboard-react/
 
 ## Notes
 
-- Data is stored only in the current browser. Clearing site data removes it
+- Data is stored only in the current browser. Clearing site data removes it.
