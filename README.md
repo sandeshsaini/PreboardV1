@@ -49,7 +49,6 @@ prepboard-react/
 ├── index.html
 ├── package.json
 ├── vite.config.js
-├── screenshots/          # images used in this README
 └── src/
     ├── main.jsx          # entry point, mounts App into #root
     ├── App.jsx           # parent component: state and logic
